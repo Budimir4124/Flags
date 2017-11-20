@@ -5,7 +5,7 @@
  * Class Flag is the base for all Flags
  */
 
-namespace BudimirNameSpace;
+namespace Budimir\Flaggen;
 
 abstract class Flag
 {

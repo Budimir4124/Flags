@@ -3,7 +3,7 @@
 //require_once 'Flag.php';
 //require_once 'FlagInterface.php';
 
-namespace BudimirNameSpace;
+namespace Budimir\Flaggen;
 
 /**
  * Class triangle

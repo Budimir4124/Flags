@@ -1,5 +1,5 @@
 <?php
-namespace BudimirNameSpace;
+namespace Budimir\Flaggen;
 interface FlagInterface{
     public function getSize() : int;
 }
